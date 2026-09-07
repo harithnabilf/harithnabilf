@@ -1,6 +1,6 @@
 ### Hi, I'm Harith.
 
-I'm a student from Selangor, Malaysia, focused on full-stack web development and practical software projects.
+I'm from Malaysia, still exploring and studying.
 
 #### Featured Projects
 
