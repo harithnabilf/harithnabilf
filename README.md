@@ -18,4 +18,3 @@ I'm a student from Selangor, Malaysia, focused on full-stack web development and
 #### Links
 
 - Portfolio: [harithnabilf.github.io/portfolio](https://harithnabilf.github.io/portfolio/)
-- Email: [harithnabilf@gmail.com](mailto:harithnabilf@gmail.com)
