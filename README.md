@@ -1,1 +1,1 @@
-### Hi, I'm Harith. Still exploring and studying.
+### Aspiring Software Engineer
