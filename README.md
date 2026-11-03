@@ -1,5 +1,1 @@
-First-year software engineering student at UKM.
-
 I like building things, exploring new tools and learning whatever the next project needs. I'm also a bit obsessed with upgrading my workflow.
-
-Open to summer internships, hackathons and competitions.
